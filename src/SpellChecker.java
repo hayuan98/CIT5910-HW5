@@ -5,7 +5,7 @@ public class SpellChecker {
     private Scanner inputReader; // DO NOT MODIFY
 
     public SpellChecker() {
-      inputReader = new Scanner(System.in) // DO NOT MODIFY - must be included in this method
+      inputReader = new Scanner(System.in); // DO NOT MODIFY - must be included in this method
       // TODO: Complete the body of this constructor, as necessary.
     }
   
